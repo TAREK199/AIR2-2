@@ -4,5 +4,5 @@ import com.stepinfo.model.Collaborateur;
 
 public interface CollaborateurDao
 {
-    public Collaborateur find(long id);
+     Collaborateur find(long id);
 }

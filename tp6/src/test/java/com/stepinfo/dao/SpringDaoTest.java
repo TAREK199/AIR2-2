@@ -16,13 +16,6 @@ public abstract class SpringDaoTest extends AbstractTransactionalSpringContextTe
    protected String[] getConfigLocations() {
       return new String[] { "applicationContext.xml", "applicationContext-test.xml" };
    }
-
-   /**
-    * Array of DbUnit XML data set files to loaded, in order, into the test
-    * database. Files will be located on the classpath.
-    * 
-    * @return
-    */
    protected abstract String[] getTestFixtures();
 
    protected void onSetUpBeforeTransaction() throws Exception {
