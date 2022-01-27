@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb2f1bc9-c8d1-41c4-a42b-72b2e905863c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tp5/images/creeddccontroller.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/creeddcview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/detailddc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/detailddccontroller.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/detailddcview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/listddc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/listddccontroller.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/serverstart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tp5/images/webxml.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stepinfo/dao/CollaborateurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stepinfo/dao/CollaborateurDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tp6-corrige.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tp6-corrige.iml" afterDir="false" />
-    </list>
+    <list default="true" id="eb2f1bc9-c8d1-41c4-a42b-72b2e905863c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,10 +122,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577292845092" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,7 +181,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577292452963</updated>
       <workItem from="1577292457006" duration="390000" />
-      <workItem from="1643325363091" duration="607000" />
+      <workItem from="1643325363091" duration="1453000" />
     </task>
     <servers />
   </component>
@@ -249,6 +237,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/resources/META-INF/persistence-test.xml">
