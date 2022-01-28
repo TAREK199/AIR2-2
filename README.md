@@ -7,29 +7,29 @@ the second part for AIR2 (tp5-6-7-8)
 ## Conrollers 
 
 ### CreerddcControler 
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/creeddccontroller.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/creeddccontroller.png)
 
 ### DetailddcControler 
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/detailddccontroller.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/detailddccontroller.png)
 
 ### Listddc
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/listddccontroller.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/listddccontroller.png)
 
 
 ## Views 
 
 ### CreerDdcView
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/creeddcview.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/creeddcview.png)
 
 ### DetailDdcView
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/detailddcview.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/detailddcview.png)
 
 ###web xml
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/webxml.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/webxml.png)
 
 # Server
 ## Jetty Start
-![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/serverstart.png)
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp5/serverstart.png)
 
 # Rapport TP6
 
@@ -86,15 +86,45 @@ the second part for AIR2 (tp5-6-7-8)
 
 
 
+# Rapport TP7
+
+##Structure
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp7/strucutre.png)
+
+##Service
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp7/service.png)
+
+##ServiceImpl
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp7/serviceImpl.png)
+
+
+##LoggerAspect
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp7/LoggerAspect.png)
 
 
 
+# Rapport TP8
+
+##Structure
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/structure.png)
 
 
+##Models
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/CollaborateurModel.png)
+
+##Services
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/DemandeCongeServiceMock.png)
+
+##ServicesValidator
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/DemandeCongeServiceValidator.png)
 
 
+##ApplicationContextSecurity
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/ApplicationContextSecurity.png)
 
 
+##Dependances
+![This is an image](https://github.com/TAREK199/AIR2-2/blob/master/tp5/images/tp8/dependencesSecurity.png)
 
 
 
